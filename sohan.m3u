@@ -8,5 +8,7 @@ https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_404
 
 #EXTINF:-1 tvg-logo=”https://en.wikipedia.org/wiki/T_Sports#/media/File:T_Sports_logo.png” group-title=”Bangla”, TSports
 http://10.10.10.2/live/fnffeed1001/index.m3u8
-#EXTINF:-1,EKUSHEY TV HD
+#EXTINF:-1 tvg-logo=”https://en.wikipedia.org/wiki/T_Sports#/media/File:T_Sports_logo.png” group-title=”Bangla”, EKUSHEY TV HD
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#EXTINF:-1 tvg-logo=”https://en.wikipedia.org/wiki/T_Sports#/media/File:T_Sports_logo.png” group-title=”Bangla”, Peace TV
+http://82.114.67.178:8081/hls/PeaceTV.m3u8
